@@ -2,5 +2,6 @@ This dataset contains data from the network of Arctic Ice Mass Balance Buoys dep
 The interfaces of 41 SIMB3 buoys were identified using a combination of temperature data and data from acoustic sounders.
 The dataset processing was supported by the Research Council of Norway project INTERAAC (grant no. 328957).
 
-The original dataset: West (2020), doi.org/10.5281/zenodo.3773811
-The buoy data: Perovich et al., imb-crrel-dartmouth.org/archived-data/
+The original dataset: West (2020), doi.org/10.5281/zenodo.3773811;
+The buoy data: Perovich et al., imb-crrel-dartmouth.org/archived-data/;
+The colormaps: Crameri (2020), doi.org/10.1038/s41467-020-19160-7.
