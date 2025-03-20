@@ -4,5 +4,5 @@ The dataset processing was supported by the Research Council of Norway project I
 
 The original dataset: West (2020), doi.org/10.5281/zenodo.3773811;
 The buoy data from 1993-2015: Perovich et al., imb-crrel-dartmouth.org/archived-data/;
-The buoy data from 2019-2024: https://www.cryosphereinnovation.com/data/;
+The buoy data from 2019-2024: www.cryosphereinnovation.com/data/;
 The colormaps: Crameri (2020), doi.org/10.1038/s41467-020-19160-7.
